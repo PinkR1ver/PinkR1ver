@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skuraice
+- 👋 Hi, I’m @PinkR1ver
 - 👀 I’m interested in enjoying life with nothing must do
 - 🌱 I’m currently learning front-end tech.
 - 💞️ I’m collecting game staff✨
