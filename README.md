@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PinkR1ver
 - 👀 I’m interested in enjoying life with nothing must do
-- 🌱 I’m currently learning front-end tech.
+- 🌱 I’m currently learning front-end tech and neural network or something.
 - 💞️ I’m collecting game staff✨
 - 📫 sakuraice@zju.edu.cn
 
