@@ -2,7 +2,7 @@
 - 👀 I’m interested in enjoying life with nothing must do
 - 🌱 I’m currently learning front-end tech and neural network or something.
 - 💞️ I’m collecting game staff✨
-- 📫 sakuraice@zju.edu.cn
+- 📫 PinkR1verOops@gmail.com
 
 <!---
 skuraice/skuraice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
