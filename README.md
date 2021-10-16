@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @PinkR1ver
-- 👀 I’m interested in enjoying life with nothing must do
-- 🌱 I’m currently learning front-end tech and neural network or something.
-- 💞️ I’m collecting game staff✨
-- 📫 PinkR1verOops@gmail.com
+# Hello, I'm Jude Wang, aka [PinkR1ver][website] 😎
 
-<!---
-skuraice/skuraice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## I'm a Student In ZJU
+
+- 🧱 Undergraudate Student In ZJU, now exchanging in NUS.
+- 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
+- 🥽  I’m currently learning front-end tech and AI in CV.
+- 🥅 2020 Goals: Finish my FYP fluently.
+- ⚡ Fun fact: CS fans, both *Computer Science* and *Counter-Strike* 🤣
+- 📬 Email: PinkR1verOops@gmail.com
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][instagram]
+
+
+[website]: https://pinkr1ver.com
+[twitter]: https://twitter.com/pinkr1ver
+[instagram]: https://instagram.com/pinkcred1t
+[steam]: https://steamcommunity.com/id/PinkCred1t/
