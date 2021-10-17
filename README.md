@@ -1,4 +1,4 @@
-[![Github-Profile](https://i.ibb.co/DW9Phs1/Github-Profile.gif)][website]
+[![Github-Profile](https://i.ibb.co/KxRYjKB/Github-Profile.gif)][website]
 
 ## Hi, there 🤞🏻
 
