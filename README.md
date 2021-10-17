@@ -1,5 +1,4 @@
-# Hello, I'm Jude Wang, aka [PinkR1ver][website] 😎
-
+[![Github-Profile](https://i.ibb.co/1GLV9nY/ezgif-com-gif-maker.gif)][website]
 
 ## I'm a Student In ZJU
 
