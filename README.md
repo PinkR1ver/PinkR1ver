@@ -1,6 +1,6 @@
-[![Github-Profile](https://i.ibb.co/1GLV9nY/ezgif-com-gif-maker.gif)][website]
+[![Github-Profile](https://i.ibb.co/fM9KQ5n/Github-Profile.gif)][website]
 
-## I'm a Student In ZJU
+## Hi, there 🤞🏻
 
 - 🧱 Undergraudate Student In ZJU, now exchanging in NUS.
 - 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
