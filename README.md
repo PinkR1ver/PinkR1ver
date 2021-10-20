@@ -21,3 +21,6 @@
 [twitter]: https://twitter.com/pinkr1ver
 [instagram]: https://instagram.com/pinkcred1t
 [steam]: https://steamcommunity.com/id/PinkCred1t/
+
+### Here are the two cats named Maoqiu(Hairball) and Xiaohei(Little Black) 🐱‍💻
+![Maoqiu&Xiaohei](https://i.ibb.co/rprRY7x/Maoqiu-Xiaohei.jpg)
