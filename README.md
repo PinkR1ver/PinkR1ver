@@ -5,7 +5,7 @@
 - 🧱 Undergraudate Student In ZJU, now exchanging in NUS.
 - 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
 - 🥽  I’m currently learning front-end tech and AI in CV.
-- 🥅 2020 Goals: Finish my FYP fluently.
+- 🥅 2022 Goals: Finish my FYP fluently.
 - ⚡ Fun fact: CS fans, both *Computer Science* and *Counter-Strike* 🤣
 - 📬 Email: PinkR1verOops@gmail.com
 
