@@ -1,10 +1,8 @@
 <div id="header" align="center" class="row">
-    <img src="sunset.gif" height="100" align='left'/> 
-    <img src="jude.svg" height="100" align='right'/>
+    <img src="sunset.gif" height="100"/> 
+    <img src="jude.svg" height="100"/> 
 </div>
 
-
-#
 
 ## Hi, there 🤞🏻
 
