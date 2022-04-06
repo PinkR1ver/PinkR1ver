@@ -1,6 +1,8 @@
 <div id="header" align="center" class="row">
-    <img src="sunset.gif" height="100" href="www.pinkr1ver.com"/> 
-    <img src="jude.svg" height="100" href="www.pinkr1ver.com"/> 
+    <a href="pinkr1ver.com">
+    <img src="sunset.gif" height="100" /> 
+    <img src="jude.svg" height="100" /> 
+    </a>
 </div>
 
 
@@ -12,6 +14,7 @@
 - 🌓 Now: FYP emoing...
 - ⚡ Fun fact: CS fans, both *Computer Science* and *Counter-Strike* 🤣
 - 📬 Email: PinkR1verOops@gmail.com
+- 📰 Blog: pinkr1ver.com
 
 ### Connect with me:
 
@@ -25,8 +28,5 @@
 [twitter]: https://twitter.com/pinkr1ver
 [instagram]: https://instagram.com/pinkcred1t
 [mail]: mailto:pinkr1veroops@gmail.com
-
-### Here are the two cats named Maoqiu(Hairball) and Xiaohei(Little Black) 🐱‍💻
-![Maoqiu&Xiaohei](https://i.ibb.co/rprRY7x/Maoqiu-Xiaohei.jpg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=pinkr1ver&show_icons=true&theme=dark"/>
