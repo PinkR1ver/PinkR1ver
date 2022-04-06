@@ -1,26 +1,27 @@
-[![Github-Profile](https://i.ibb.co/KxRYjKB/Github-Profile.gif)][website]
+<h1 class="ml6">
+  <span class="text-wrapper">
+    <span class="letters">Beautiful Questions</span>
+  </span>
+</h1>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 
 ## Hi, there 🤞🏻
 
-- 🧱 Undergraudate Student In ZJU, now exchanging in NUS.
-- 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
-- 🥽  I’m currently learning front-end tech and AI in CV.
-- 🥅 2022 Goals: Finish my FYP fluently.
-- ⚡ Fun fact: CS fans, both *Computer Science* and *Counter-Strike* 🤣
-- 📬 Email: PinkR1verOops@gmail.com
+Interested in everything about computer science (CS), with ambition to be full-stack engineer. Also, enjoy counter strike (CS)  👏
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam] </br>
+[<img align="left" alt="blog" width="22px" src="blogging.png" />][blog]
+[<img align="left" alt="Twitter" width="22px" src="twitter.png" />][twitter]
+[<img align="left" alt="Instagram" width="22px" src="instagram.png" />][instagram]
+[<img align="left" alt="Mail" width="22px" src="gmail.png" />][mail] </br>
 
 
-[website]: https://pinkr1ver.com
+[blog]: https://pinkr1ver.com
 [twitter]: https://twitter.com/pinkr1ver
 [instagram]: https://instagram.com/pinkcred1t
-[steam]: https://steamcommunity.com/id/PinkCred1t/
+[mail]: mailto:pinkr1veroops@gmail.com
 
 ### Here are the two cats named Maoqiu(Hairball) and Xiaohei(Little Black) 🐱‍💻
 ![Maoqiu&Xiaohei](https://i.ibb.co/rprRY7x/Maoqiu-Xiaohei.jpg)
