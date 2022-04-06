@@ -1,8 +1,6 @@
-<div id="header" align="center">
-<p>
-    <img src="sunset.gif" width="100" align='left'/>
-    <img src="hey_jude.svg" width="1000" align='right'/>
-</p>
+<div id="header" align="center" class="row">
+    <img src="sunset.gif" height="100" align='left'/> 
+    <img src="hey_jude.svg" height="100" align='right'/>
 </div>
 
 
