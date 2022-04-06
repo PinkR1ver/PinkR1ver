@@ -1,5 +1,5 @@
 <div id="header" align="center" class="row">
-    <a href="pinkr1ver.com">
+    <a href="https://pinkr1ver.com/">
     <img src="sunset.gif" height="100" /> 
     <img src="jude.svg" height="100" /> 
     </a>
