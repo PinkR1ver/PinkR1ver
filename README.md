@@ -29,4 +29,4 @@
 [instagram]: https://instagram.com/pinkcred1t
 [mail]: mailto:pinkr1veroops@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=pinkr1ver&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pinkr1ver&show_icons=true&theme=midnight-purple"/>
