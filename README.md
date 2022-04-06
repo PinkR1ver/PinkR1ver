@@ -6,7 +6,12 @@
 
 ## Hi, there 🤞🏻
 
-Interested in everything about computer science (CS), with ambition to be full-stack engineer. Also, enjoy counter strike (CS)  👏
+- 🧱 Undergraudate Student In ZJU, now exchanging in NUS.
+- 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
+- 🥽 I’m currently learning front-end tech and AI in medical image segmentation.
+- 🌓 Now: FYP emoing...
+- ⚡ Fun fact: CS fans, both *Computer Science* and *Counter-Strike* 🤣
+- 📬 Email: PinkR1verOops@gmail.com
 
 ### Connect with me:
 
