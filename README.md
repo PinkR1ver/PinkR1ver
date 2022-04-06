@@ -1,6 +1,6 @@
 <div id="header" align="center" class="row">
     <img src="sunset.gif" height="100" align='left'/> 
-    <img src="hey_jude.svg" height="100" align='right'/>
+    <img src="jude.svg" height="100" align='right'/>
 </div>
 
 
