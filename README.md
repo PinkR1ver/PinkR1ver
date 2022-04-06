@@ -1,6 +1,6 @@
 <div id="header" align="center" class="row">
-    <img src="sunset.gif" height="100"/> 
-    <img src="jude.svg" height="100"/> 
+    <img src="sunset.gif" height="100" href="www.pinkr1ver.com"/> 
+    <img src="jude.svg" height="100" href="www.pinkr1ver.com"/> 
 </div>
 
 
