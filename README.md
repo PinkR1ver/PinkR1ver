@@ -14,7 +14,7 @@
 - 🌓 Now: FYP emoing...
 - ⚡ Fun fact: CS fans, both *Computer Science* and *Counter-Strike* 🤣
 - 📬 Email: PinkR1verOops@gmail.com
-- 📰 Blog: pinkr1ver.com
+- 📰 Blog: [pinkr1ver.com](https://pinkr1ver.com)
 - 📷 [Photo gralley](https://pinkr1ver.notion.site/3cfdd332b9a94b20bca041f2aa2bdcd2?v=24e696e6ab754386a710bc8e83976357)
 
 ### Connect with me:
