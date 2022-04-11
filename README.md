@@ -22,12 +22,14 @@
 [<img align="left" alt="blog" width="22px" src="blogging.png" />][blog]
 [<img align="left" alt="Twitter" width="22px" src="twitter.png" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="instagram.png" />][instagram]
-[<img align="left" alt="Mail" width="22px" src="gmail.png" />][mail] </br>
+[<img align="left" alt="Mail" width="22px" src="gmail.png" />][mail] 
+[<img align="left" alt="Mail" width="22px" src="telegram.svg" />][telegram]</br>
 
 
 [blog]: https://pinkr1ver.com
 [twitter]: https://twitter.com/pinkr1ver
 [instagram]: https://instagram.com/pinkcred1t
 [mail]: mailto:pinkr1veroops@gmail.com
+[telegram]: https://t.me/PinkR1ver
 
 <img src="https://github-readme-stats.vercel.app/api?username=pinkr1ver&show_icons=true&theme=midnight-purple"/>
