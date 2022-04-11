@@ -23,7 +23,8 @@
 [<img align="left" alt="Twitter" width="22px" src="twitter.png" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="instagram.png" />][instagram]
 [<img align="left" alt="Mail" width="22px" src="gmail.png" />][mail] 
-[<img align="left" alt="Mail" width="22px" src="telegram.svg" />][telegram]</br>
+[<img align="left" alt="telegram" width="22px" src="telegram.svg" />][telegram]
+[<img align="left" alt="medium" width="22px" src="medium.png" />][medium]</br>
 
 
 [blog]: https://pinkr1ver.com
@@ -31,5 +32,6 @@
 [instagram]: https://instagram.com/pinkcred1t
 [mail]: mailto:pinkr1veroops@gmail.com
 [telegram]: https://t.me/PinkR1ver
+[medium]: https://medium.com/@pinkr1veroops/about
 
 <img src="https://github-readme-stats.vercel.app/api?username=pinkr1ver&show_icons=true&theme=midnight-purple"/>
