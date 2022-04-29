@@ -5,8 +5,6 @@
     </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=PinkR1ver&color=blueviolet)
-
 
 ## Hi, there 🤞🏻
 
@@ -43,3 +41,5 @@
 </div>
 
 ![Metrics](/github-metrics.svg)
+
+![](https://komarev.com/ghpvc/?username=PinkR1ver&color=blueviolet)
