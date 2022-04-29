@@ -34,5 +34,5 @@
 [telegram]: https://t.me/PinkR1ver
 [medium]: https://medium.com/@pinkr1veroops
 
-<img src="https://github-readme-stats.vercel.app/api?username=pinkr1ver&show_icons=true&theme=midnight-purple" align="left"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=pinkr1ver&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" align="right"/>
+<img height="300px" src="https://github-readme-stats.vercel.app/api?username=pinkr1ver&show_icons=true&theme=midnight-purple" align="left"/>
+<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=pinkr1ver&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" align="left"/>
