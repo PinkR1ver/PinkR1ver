@@ -5,6 +5,8 @@
     </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=PinkR1ver&color=blueviolet)
+
 
 ## Hi, there 🤞🏻
 
