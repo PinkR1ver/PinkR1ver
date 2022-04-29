@@ -39,3 +39,5 @@
         <a href="https://github.com/PinkR1ver"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkR1ver&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="300px"/></a>
     <img style="margin:0px 10px" src="https://activity-graph.herokuapp.com/graph?username=pinkr1ver&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" align="left"/>
 </div>
+
+![Metrics](https://metrics.lecoq.io/PinkR1ver?template=classic&base.header=0&base.activity=0&base.community=0&notable=1&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=3&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FShanghai)
