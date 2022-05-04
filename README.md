@@ -20,12 +20,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="blog" width="22px" src="blogging.png" />][blog]
 [<img align="left" alt="Twitter" width="22px" src="twitter.png" />][twitter]
-[<img align="left" alt="Instagram" width="22px" src="instagram.png" />][instagram]
 [<img align="left" alt="Mail" width="22px" src="gmail.png" />][mail] 
-[<img align="left" alt="telegram" width="22px" src="telegram.svg" />][telegram]
-[<img align="left" alt="medium" height="22px" src="medium.png" />][medium]</br>
+
 
 
 [blog]: https://pinkr1ver.com
