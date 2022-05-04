@@ -21,7 +21,7 @@
 ### Connect with me:
 
 [<img alt="Twitter" width="22px" src="twitter.png" />][twitter]
-[<img alt="Mail" width="22px" src="gmail.png" />][mail] </br>
+[<img alt="Mail" width="22px" src="gmail.png" />][mail] <br>
 
 
 
