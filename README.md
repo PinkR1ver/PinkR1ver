@@ -19,14 +19,6 @@
 - [Ask me anything in discussion](https://github.com/PinkR1ver/PinkR1ver/discussions)
 
 
-
-[blog]: https://pinkr1ver.com
-[twitter]: https://twitter.com/pinkr1ver
-[instagram]: https://instagram.com/pinkcred1t
-[mail]: mailto:pinkr1veroops@gmail.com
-[telegram]: https://t.me/PinkR1ver
-[medium]: https://medium.com/@pinkr1veroops
-
 <div>
        <a href="https://github.com/RinkR1ver"><img alt="PinkR1ver's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PinkR1ver&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
         <a href="https://github.com/PinkR1ver"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkR1ver&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="300px"/></a>
@@ -37,7 +29,13 @@
 
 ![](https://komarev.com/ghpvc/?username=PinkR1ver&color=blueviolet)
 
-### Connect with me:
+### Contact me:
 
-[<img alt="Twitter" width="22px" src="twitter.png" />][twitter]
-[<img alt="Mail" width="22px" src="gmail.png" />][mail] <br>
+[<img alt="Twitter" width="22px" src="twitter.png" />][twitter] [<img alt="Mail" width="22px" src="gmail.png" />][mail] <br>
+
+[blog]: https://pinkr1ver.com
+[twitter]: https://twitter.com/pinkr1ver
+[instagram]: https://instagram.com/pinkcred1t
+[mail]: mailto:pinkr1veroops@gmail.com
+[telegram]: https://t.me/PinkR1ver
+[medium]: https://medium.com/@pinkr1veroops
