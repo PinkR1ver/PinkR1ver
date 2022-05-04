@@ -31,12 +31,12 @@
 
 ### Contact me:
 
-[<img align="left" alt="Twitter" width="22px" src="twitter.png" />][twitter] 
-[<img align="left" alt="Mail" width="22px" src="gmail.png" />][mail] <br>
-
 [blog]: https://pinkr1ver.com
 [twitter]: https://twitter.com/pinkr1ver
 [instagram]: https://instagram.com/pinkcred1t
 [mail]: mailto:pinkr1veroops@gmail.com
 [telegram]: https://t.me/PinkR1ver
 [medium]: https://medium.com/@pinkr1veroops
+
+[<img align="left" alt="Twitter" width="22px" src="twitter.png" />][twitter] 
+[<img align="left" alt="Mail" width="22px" src="gmail.png" />][mail] <br>
