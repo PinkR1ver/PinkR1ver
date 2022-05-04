@@ -31,7 +31,8 @@
 
 ### Contact me:
 
-[<img alt="Twitter" width="22px" src="twitter.png" />][twitter] [<img alt="Mail" width="22px" src="gmail.png" />][mail] <br>
+[<img align="left" alt="Twitter" width="22px" src="twitter.png" />][twitter] 
+[<img align="left" alt="Mail" width="22px" src="gmail.png" />][mail] <br>
 
 [blog]: https://pinkr1ver.com
 [twitter]: https://twitter.com/pinkr1ver
