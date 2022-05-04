@@ -18,11 +18,6 @@
 - 📷 [Photo gralley](https://pinkr1ver.notion.site/3cfdd332b9a94b20bca041f2aa2bdcd2?v=24e696e6ab754386a710bc8e83976357)
 - [Ask me anything in discussion](https://github.com/PinkR1ver/PinkR1ver/discussions)
 
-### Connect with me:
-
-[<img alt="Twitter" width="22px" src="twitter.png" />][twitter]
-[<img alt="Mail" width="22px" src="gmail.png" />][mail] <br>
-
 
 
 [blog]: https://pinkr1ver.com
@@ -41,3 +36,8 @@
 ![Metrics](/github-metrics.svg)
 
 ![](https://komarev.com/ghpvc/?username=PinkR1ver&color=blueviolet)
+
+### Connect with me:
+
+[<img alt="Twitter" width="22px" src="twitter.png" />][twitter]
+[<img alt="Mail" width="22px" src="gmail.png" />][mail] <br>
