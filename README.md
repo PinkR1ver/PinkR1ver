@@ -10,8 +10,7 @@
 
 - 🧱 Undergraudate Student In ZJU, now exchanging in NUS.
 - 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
-- 🥽 I’m currently learning front-end tech and AI in medical image segmentation.
-- 🌓 Now: FYP emoing...
+- 🌓 Now: Happy to finish FYP, now learning Web3.0
 - ⚡ Fun fact: CS fans, both *Computer Science* and *Counter-Strike* 🤣
 - 📬 Email: PinkR1verOops@gmail.com
 - 📰 Blog: [pinkr1ver.com](https://pinkr1ver.com)
