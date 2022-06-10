@@ -1,6 +1,9 @@
-<a href="https://pinkr1ver.com/">
-    <img src="jude.svg" height="100" display="block" margin-left="auto" margin-right="auto"> 
-</a>
+<div id="header" align="center" class="row">
+    <a href="https://pinkr1ver.com/">
+        <img src="sunset.gif" height="100"> 
+        <img src="jude.svg" height="100"> 
+    </a>
+</div>
 
 
 ## Hi, there 🤞🏻
