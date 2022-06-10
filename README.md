@@ -1,8 +1,7 @@
-<div id="header" align="center" class="row">
-    <a href="https://pinkr1ver.com/">
-        <img src="jude.svg" height="100" /> 
-    </a>
-</div>
+
+<a href="https://pinkr1ver.com/">
+    <img src="jude.svg" height="100" /> 
+</a>
 
 
 ## Hi, there 🤞🏻
