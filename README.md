@@ -1,5 +1,5 @@
 <a href="https://pinkr1ver.com/">
-    <img src="jude.svg" height="100" class="center"/> 
+    <img src="jude.svg" height="100" display="block" margin-left="auto" margin-right="auto"> 
 </a>
 
 
