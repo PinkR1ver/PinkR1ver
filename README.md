@@ -1,7 +1,8 @@
-
-<a href="https://pinkr1ver.com/">
-    <img src="jude.svg" height="100" /> 
-</a>
+<center>
+    <a href="https://pinkr1ver.com/">
+        <img src="jude.svg" height="100" /> 
+    </a>
+</center>
 
 
 ## Hi, there 🤞🏻
