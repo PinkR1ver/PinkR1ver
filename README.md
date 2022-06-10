@@ -8,7 +8,7 @@
 
 ## Hi, there 🤞🏻
 
-- 🧱 Undergraudate Student In ZJU, now exchanging in NUS.
+- 🧱 Will be M.Sc in ZJU
 - 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
 - 🌓 Now: Happy to finish FYP, now learning Web3.0
 - ⚡ Fun fact: CS fans, both *Computer Science* and *Counter-Strike* 🤣
