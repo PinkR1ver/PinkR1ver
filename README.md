@@ -10,7 +10,7 @@
 
 - 🧱 Will be M.Sc in ZJU
 - 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
-- 🌓 Now: Happy to finish FYP, now learning Web3.0
+- 🌓 Now: Happy to finish FYP, now learning Web2.0 +  3.0
 - ⚡ Fun fact: CS fans, both *Computer Science* and *Counter-Strike* 🤣
 - 📬 Email: PinkR1verOops@gmail.com
 - 📰 Blog: [pinkr1ver.com](https://pinkr1ver.com)
