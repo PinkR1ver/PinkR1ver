@@ -1,6 +1,12 @@
+<style>
+    img {
+        border-radius: 50%;
+    }
+</style>
+
 <div id="header" align="center" class="row">
     <a href="https://pinkr1ver.com/">
-        <img src="https://img.rarible.com/prod/image/upload/t_image_big/prod-itemImages/0x248139afb8d3a2e16154fbe4fb528a3a214fd8e7:2059/85b4e34" height="100" style="border-radius:50%"> 
+        <img src="https://img.rarible.com/prod/image/upload/t_image_big/prod-itemImages/0x248139afb8d3a2e16154fbe4fb528a3a214fd8e7:2059/85b4e34" height="100"> 
         <img src="jude.svg" height="100"> 
     </a>
 </div>
