@@ -1,6 +1,5 @@
 <div id="header" align="center" class="row">
     <a href="https://pinkr1ver.com/">
-        <img src="https://img.rarible.com/prod/image/upload/t_image_big/prod-itemImages/0x248139afb8d3a2e16154fbe4fb528a3a214fd8e7:2059/85b4e34" height="100"> 
         <img src="jude.svg" height="100"> 
     </a>
 </div>
@@ -8,10 +7,10 @@
 
 ## Hi, there 🤞🏻
 
-- 🧱 Will be M.Sc in ZJU
+- 🧱 M.Sc in ZJU
 - 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
-- 🌓 Now: Happy to finish FYP, now learning Web2.0 +  3.0
-- ⚡ Fun fact: CS fans, both *Computer Science* and *Counter-Strike* 🤣
+- 💔 Now: Heart Broken because soemthing;
+- ⚡ Fun fact: Enjoy muscle exercising recently & in **Supreme Master First Class** rank in CS:GO wingman mode;
 - 📬 Email: PinkR1verOops@gmail.com
 - 📰 Blog: [pinkr1ver.com](https://pinkr1ver.com)
 - 📷 [Photo gralley](https://pinkr1ver.notion.site/3cfdd332b9a94b20bca041f2aa2bdcd2?v=24e696e6ab754386a710bc8e83976357)
