@@ -10,7 +10,7 @@
 - 🧱 M.Sc in ZJU
 - 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
 - 💔 Now: Heart Broken because soemthing;
-- ⚡ Fun fact: Enjoy muscle exercising recently & in <span style="color:orange;">Supreme Master First Class<\span> rank in CS:GO wingman mode;
+- ⚡ Fun fact: Enjoy muscle exercising recently & in <span style="color:orange;">Supreme Master First Class</span> rank in CS:GO wingman mode;
 - 📬 Email: PinkR1verOops@gmail.com
 - 📰 Blog: [pinkr1ver.com](https://pinkr1ver.com)
 - 📷 [Photo gralley](https://pinkr1ver.notion.site/3cfdd332b9a94b20bca041f2aa2bdcd2?v=24e696e6ab754386a710bc8e83976357)
