@@ -19,9 +19,11 @@
 
 
 <div>
-       <a href="https://github.com/RinkR1ver"><img alt="PinkR1ver's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PinkR1ver&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
-        <a href="https://github.com/PinkR1ver"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkR1ver&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="300px"/></a>
+       <a href="https://github.com/RinkR1ver"><img alt="PinkR1ver's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PinkR1ver&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/PinkR1ver"><img alt="Aakash's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PinkR1ver&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="300px"/></a>
 </div>
+
+
 
 ![Metrics](/github-metrics.svg)
 
