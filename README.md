@@ -10,7 +10,7 @@
 - 🧱 M.Sc in ZJU
 - 🧪 Majored in BME(Biomedical Engineering), wanting to be full-stack
 - 🍉 Now: Loving spending money
-- ⚡ Fun fact: in **Supreme Master First Class** rank in CS:GO wingman mode *BEFORE*;
+- ⚡ Fun fact: MBTI personality test - INFP
 - 🚲 Strava: [Uploading my exercise to strava recently, espically cycling](https://www.strava.com/athletes/109116948)
 - 📬 Email: PinkR1verOops@gmail.com
 - 📰 Blog: [pinkr1ver.com](https://pinkr1ver.com)
