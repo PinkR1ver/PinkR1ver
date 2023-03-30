@@ -8,9 +8,9 @@
 ## Hi, there 🤞🏻
 
 - 🧱 M.Sc in ZJU
-- 🧪 Majored in BME(Biomedical Engineering), Ps. More Interest in CS.
-- 💔 Now: Heart Broken because soemthing;
-- ⚡ Fun fact: Enjoy muscle exercising recently & in **Supreme Master First Class** rank in CS:GO wingman mode;
+- 🧪 Majored in BME(Biomedical Engineering), wanting to be full-stack
+- 🍉 Now: Loving spending money
+- ⚡ Fun fact: in **Supreme Master First Class** rank in CS:GO wingman mode *BEFORE*;
 - 🚲 Strava: [Uploading my exercise to strava recently, espically cycling](https://www.strava.com/athletes/109116948)
 - 📬 Email: PinkR1verOops@gmail.com
 - 📰 Blog: [pinkr1ver.com](https://pinkr1ver.com)
