@@ -37,6 +37,4 @@
 [telegram]: https://t.me/PinkR1ver
 [medium]: https://medium.com/@pinkr1veroops
 
-[<img align="left" alt="Twitter" width="22px" src="twitter.png" />][twitter] 
 [<img align="left" alt="Mail" width="22px" src="gmail.png" />][mail] 
-[<img align="left" alt="Mail" width="22px" src="instagram.png" />][instagram] <br>
