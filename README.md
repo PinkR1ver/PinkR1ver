@@ -23,9 +23,6 @@
         <a href="https://github.com/PinkR1ver"><img alt="Aakash's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PinkR1ver&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="300px"/></a>
 </div>
 
-
-![Metrics](/github-metrics.svg)
-
 ![](https://komarev.com/ghpvc/?username=PinkR1ver&color=blueviolet)
 
 ### Contact me:
