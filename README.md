@@ -9,7 +9,7 @@
 
 - 🧱 M.Sc in ZJU
 - 🧪 Majored in BME(Biomedical Engineering), wanting to be full-stack
-- 🍉 Now: Learning Dota
+- 🍉 Now: Focus on Health Status
 - ⚡ Fun fact: MBTI personality test - INFP
 - 🚲 Strava: [Uploading my exercise to strava recently, espically cycling](https://www.strava.com/athletes/109116948)
 - 📬 Email: PinkR1verOops@gmail.com
