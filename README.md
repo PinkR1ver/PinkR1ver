@@ -20,7 +20,7 @@
 
 <div>
        <a href="https://github.com/RinkR1ver"><img alt="PinkR1ver's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PinkR1ver&show_icons=true&theme=radical"/></a>
-        <a href="https://github.com/PinkR1ver"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkR1ver&stats_format=compact" width="300px"/></a>
+        <a href="https://github.com/PinkR1ver"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkR1ver&layout=compact&theme=radical" width="300px"/></a>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=PinkR1ver&color=blueviolet)
