@@ -7,20 +7,23 @@
 
 ## Hi, there 🤞🏻
 
-- 🧱 M.Sc in ZJU
-- 🧪 Majored in BME(Biomedical Engineering), wanting to be full-stack
-- 🍉 Now: Focus on Health Status
-- ⚡ Fun fact: MBTI personality test - INFP
-- 🚲 Strava: [Uploading my exercise to strava recently, espically cycling](https://www.strava.com/athletes/109116948)
+- 🧱 M.Sc. student at Zhejiang University
+- 🧪 Biomedical Engineering background, growing into full-stack building
+- 🍉 Currently focused on health status and personal data projects
+- ⚡ Fun fact: INFP
+- 🚲 Strava: [Uploading my workouts recently, especially cycling](https://www.strava.com/athletes/109116948)
 - 📬 Email: PinkR1verOops@gmail.com
 - 📰 Blog: [pinktalk.online](https://pinktalk.online)
-- 📷 [Photo gralley](https://pinkr1ver.notion.site/3cfdd332b9a94b20bca041f2aa2bdcd2?v=24e696e6ab754386a710bc8e83976357)
+- 📷 [Photo gallery](https://pinkr1ver.notion.site/3cfdd332b9a94b20bca041f2aa2bdcd2?v=24e696e6ab754386a710bc8e83976357)
 - [Ask me anything in discussion](https://github.com/PinkR1ver/PinkR1ver/discussions)
-- 🎣 **Job Hunting...**, here's my [LinkedIn](https://www.linkedin.com/in/yichong-wang-9a187a222/)
 
-<div>
-       <a href="https://github.com/RinkR1ver"><img alt="PinkR1ver's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PinkR1ver&show_icons=true&theme=radical"/></a>
-        <a href="https://github.com/PinkR1ver"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkR1ver&layout=compact&theme=radical" width="300px"/></a>
+<div align="center">
+  <img alt="PinkR1ver profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PinkR1ver&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img alt="PinkR1ver stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PinkR1ver&theme=tokyonight" />
+  <img alt="PinkR1ver top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PinkR1ver&theme=tokyonight" />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=PinkR1ver&color=blueviolet)
